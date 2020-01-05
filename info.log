@@ -1,0 +1,13 @@
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"New bookmark (id: 34e82d4c-0e90-4207-bc86-76ba8b1068f0) successfully created","level":"info"}
+{"message":"Bookmark with id 34e82d4c-0e90-4207-bc86-76ba8b1068f0 deleted.","level":"info"}
+{"message":"Bookmark with id 34e82d4c-0e90-4207-bc86-76ba8b1068f0 not found.","level":"error"}
+{"message":"Bookmark with id 70e25f22-3f4b-48a6-af6b-ba6d06d6b90c deleted.","level":"info"}
+{"message":"Bookmark with id 9d562d15-dbea-4099-a1a5-37bbabd5b847 deleted.","level":"info"}
+{"message":"Bookmark with id 9d562d15-dbea-4099-a1a5-37bbabd5b847 not found.","level":"error"}
+{"message":"Bookmark with id e2dff656-5c5e-49a7-9114-52223113bf3d deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
