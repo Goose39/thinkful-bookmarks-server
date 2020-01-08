@@ -11,3 +11,5 @@
 {"message":"Unauthorized request to path: /bookmarks/","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks/","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /articles","level":"error"}
+{"message":"Unauthorized request to path: /articles","level":"error"}
